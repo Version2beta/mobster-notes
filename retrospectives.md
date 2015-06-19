@@ -1,5 +1,36 @@
 # Mob Programming Retrospectives
 
+
+## 19 June 2015
+
+Present were Jason, Julia, Michael, Kirsten, Nhat. Mobbed for 2 hours, target was Angular.js testing on the server using jsdom.
+
+*What went well? On a team level... For you personally...*
+
+"It was pretty cool that some of the boilerplate we had to do, Nhat could just rattle off the top of his head, where it would have taken me a half hour to figure it out."
+
+"Maybe now we know that jsdom doesn't play well, maybe. We can move on, maybe, to benv."
+
+"Our driver got called away to a meeting and we continued without missing a beat."
+
+"My worst times to code are between 2 and 4:30 in the afternoon. I think it went better in a mob. I think it might be more productive than working individually in that slow period." "I think I like it in the afternoon for that too." 
+
+"As the driver, more of my mental capacity was used keeping up with all the suggestions rather than trying to think of a solution of my own." "It was easier for me because I was the one who was trying things, rather than researching and thinking about what'll work."
+
+*What didn't go well? On a team level... For you personally...*
+
+"It's Friday afternoon. And we were all full from lunch. Plus it's a little warm in here."
+
+*What would you like to try differently? On a team level... For you personally...*
+
+"Mob in the morning? Because fresher? I'd like to see what happens."
+
+"It'd be interesting to see when everyone is up to speed on a project, if everyone pulled the code down and instead of just researching they actually tried stuff out. Instead of researching and suggesting something to try, you can bring a solution."
+
+*What still has you puzzled? On a team level... For you personally...*
+
+
+
 ## 18 June 2015
 
 Present were Julia Gao, Jason Hill, Kirsten, Brannon Lucas, Ryan, Nhat, Matthew. Mobbed for about one hour. The target was testing React.js code with Mocha and jsdom.
