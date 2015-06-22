@@ -1,5 +1,73 @@
 # Mob Programming Retrospectives
 
+## 22 June 2015
+
+*What went well? On a team level... For you personally...*
+
+Today's mob was with Michael Whitehead (driving), Amanda Walter, Aaron Tracy, Julia Gao, Jason Hill, Lakshmi Boyina, and Rob Martin. We mobbed from 9 AM to 4 PM with an hour lunch and a presentation on our work at 4. We did a hack day today, "Recognition in the year 3000", and created a whuffie point product idea, implementing a Slack bot for identifying whuffie awards in a Slack channel.
+
+"We did a really good job of bouncing off each other's ideas at the beginning of the day to come up with our solutions. I don't think it was any one person's ideas that got built."
+
+"I think once we figured out what our idea was and what we were heading for, we all pulled together and worked on the solution. That's what was neat, seeing us all work together."
+
+"We kicked butt. People loved our ideas and they were very complimentary of our work."
+
+"We accomplished more in a short time. We built a project without much complexity. Because we worked together we built something simpler than we would have had we worked separately." "I second that, that's what I would have said."
+
+"We got a more difficult Javascript library. That was a new idea that I can investigate more later."
+
+"I learned a lot from this process. About libraries I'd never seen before. Some testing concepts. Even just refactoring the tests, to use a library that we weren't sure about. We weren't sure how it worked, so we refactored to understand the library better. Today we had a limited time frame, and the fact that we took the time to refactor is a definite positive."
+
+*One thing I've heard is that mob programming results in less technical debt. Agree?* "I would agree." "I agree, and I think it goes along with what was said about the complexity because I kept getting pulled back a bunch of times from what I would have done, and I think what we ended up doing was a lot simpler." "I agree I think we end up with simpler code, so it's possible. It'd be nice to follow some projects over a longer time to be sure."
+
+"It's nice that I'm not solely responsible for any bad code. There's shared responsibility for good and bad code." "I think that the result product will be less bad because there's got to be some better coders on the team. Teams with mixed levels of experience will turn out better code."
+
+*What didn't go well? On a team level... For you personally...*
+
+"I felt like sometimes when I said things, I shut people down. It feels like if everybody doesn't agree with you, you feel singled out."
+
+"I was going to drive for a while, but I didn't speak up. I feel like I learn more from driving more." "It would have been fine for me if someone had jumped in to drive... If I wanted to step back and take a higher level view of the problem, it would have been good if someone else took over driving."
+
+"We did really high level, difficult Javascript today, stuff I wasn't prepared to understand. There were a lot of times today I was scrambling to keep up, but the team kept moving because the people who were contributing most were able to keep up at the higher level." "It was a lot of learning for me because I don't know much about functional programming." "Did you feel excluded from the mob because you didn't know what was going on?" "Somewhat." "I feel like I learned a lot, one from reading the docs online and two from seeing how they used it. I think when we bring interns on in September it'll be really good because they can see how people actually implement the code, rather than just reading the docs." 
+
+"I think it's interesting that there's one particular implementation that one person was pushing for, and that person might have felt like she lost that debate but that's the implementation we built."
+
+*Power imbalance?* "Because this was a hack day, I feel like we needed to get more done. If we'd had more time, I would have stopped more to check if everyone know what was going on." "I noticed a few times that the driver would make a statement along the lines of 'This is my opinion but feel free to disagree.' I feel like that should be an implicit understanding, that every statement can and should be challenged."
+
+*Tight deadline:* "I think that went well, we did get a lot done. We got a good amount accomplished, we just didn't do a lot of learning and training so that next time we meet everyone could participate better." "On the plus side, I think we did a pretty good job of estimating what we could get to in the time we had." 
+
+"Especially for those who don't know the language well, it's easier for them to feel excluded and shut down and even hurt or upset because they don't feel competent already, like 'I don't know the language and now I can't contribute in other ways either.' I think in future mobs we need to encourage them more, to make their competence level go up, and explain why we think this or that idea may not work."
+
+*Who is responsible for hurt feelings? The person who feels hurt or the person who's perceived to be hurting them? Is constructive conflict a good thing?* "I forget which podcast it was - maybe about Elm where they're trying to build a community. Maybe just to follow the best practices of the open source communities?" "When you have new people asking what you might call a stupid question, in some communities they're like 'that's a dumb question; go google it' and in other communities they help you figure it out." **"If you alienate people your community won't grow."** "One thing we can do is say 'That's a good thought, and this is why, and another way we can do it is like this.'" "Communicating in a better way." "Usually by you speaking up and sharing your idea, it spurs ideas in other people. That's sometimes what sparks the idea that was actually implemented. It got the thought process of the mob in line for solving the real problem."
+
+"If you had more resources, you could just fork the project and start another project. It wasn't the implementation that caused conflict, it was the high level talk."
+
+"If we do go the approach of 'just say no, just such them down' instead of more comforting things, it might be good to rotate people afterwards to help people feel better." "I see 'community manager' as a parallel."
+
+"I wasn't happy with the choice to use Node, but I feel like it was a circumstance of the mob. It was a hack day. Not everyone knew the languages I wanted to use. It would have been better to use Scala, or Haskell, or Erlang, but there was the issue of bringing people up to speed and that conflicts with needing to get something done."
+
+"I was unhappy we didn't use Java 8. And I got a preemptive shut down before I even brought it up." "Can we vote then?" "I'm not the only person who is going to come to the mob with opinion." "I think it's different for you because you're in a position of authority. If someone else had said that, we could have just said no way, but when you say it, it's different. *I think a person in a position of authority has to be careful what they say.* I think one thing to counter that is if we had more than one person in an equal level of authority." "I want to say that no one in the mob has more authority than anyone else, even if I try to make it look that way." "I think you can say that, but there's still going to be that underlying social factor because you're responsible for hirings, firings, raises, etc."
+
+*What would you like to try differently? On a team level... For you personally...*
+
+"I really want to try getting new tools. I want more collaborative editing, more collaborative driving, being able to hand off the driving easily - even if someone wants to jump in and just finish my sentence or a line of code." "We can do remote or control your screen or something." "Or commit more often and everybody can pull it down?" 
+
+"I think it's totally worth it [to use tmux with multiple drivers] but what do you do when it's Java or Scala? Because then the best editor is IntelliJ or Eclipse."
+
+"There's a problem with key mappings. If you had a quick way to change the key mappings."
+
+"I wonder if having a standard tool for mobbing, and standard key bindings, would be worthwhile."
+
+"I wonder if it would be a good idea to let the less experienced people drive next time. It'd be better for whoever is driving, and for whoever is explaining. I feel like explaining things helps me understand it better."
+
+*What still has you puzzled? On a team level... For you personally...*
+
+[On coming into the mob after it's started.] "By the time I'm here it's almost done. I don't know what we've done, what we've gone through, by that point. It's better than coming into the middle of a individual projects. There's a lot of people discussing, a group of people discussing together, much better than going and talking to people individually."
+
+"When you get in a rhythm in a pair it's like the other person can finish your sentences for you. It'd be nice if you could do that in a mob."
+
+"We have a variety of different languages that we're all skilled at, so depending on which language we choose to use, somebody's always going to feel excluded. I'm puzzled at how we can become super successful at mob programming when our skillsets vary so much."
+
 
 ## 19 June 2015
 
