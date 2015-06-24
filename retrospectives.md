@@ -68,6 +68,11 @@ Today's mob was with Michael Whitehead (driving), Amanda Walter, Aaron Tracy, Ju
 
 "We have a variety of different languages that we're all skilled at, so depending on which language we choose to use, somebody's always going to feel excluded. I'm puzzled at how we can become super successful at mob programming when our skillsets vary so much."
 
+*An additional note*
+
+One member of the mob was not present for our retrospective. That person hadn't said anything for the last couple of hours of coding, which concerned me enough to ask about it after. Also, the last conversation had been with me, and that person expressed feeling shut down by my position of authority. Finally this person left during our hack day wrap up.
+
+The next day, we spoke about what had happened and how it felt to each of us. It turned out that this person had experienced a serious relationship upset the night before and was emotionally drained. We discussed options for checking out of the group, and for participating passively, and the importance of trusting when someone in the mob chooses to do either of those things.
 
 ## 19 June 2015
 
