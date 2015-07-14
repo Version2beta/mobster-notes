@@ -1,5 +1,25 @@
 # Mob Programming Retrospectives
 
+## July 14, 2015
+
+Today's mob was Michael Whitehead (facilitating and code owner), Jaswandi, Julia, Amanda, Ben, Jason, Rob, Amela (briefly).
+
+*What went well? On a team level... For you personally...*
+
+"I learned some Scala. I got an idea of the project. I wouldn't have been involved in the project or in Scala except for this mob. Otherwise I wouldn't have learned anything on this." ""We changed drivers. That was cool." "It's better for us to work as a team sometimes, even if we don't otherwise work on the same project. It's good for the team." "I didn't think I was going to be able to contribute. But I feel like I did, and I learned stuff too."
+
+*What didn't go well? On a team level... For you personally...*
+
+"I felt there was a lot of pressure on me. I was the only language expert, and the only one who knew the code." "The session was too short." "[Construction] It's noisy outside. Made it hard to hear. Made me anxious. Feels like a war zone today." "We need to mob more often." 
+
+*What would you like to try differently? On a team level... For you personally...*
+
+"It would be nice if everyone had setup on their laptops, so we don't have to deal with the peculiarities of someone else's system setup." "I'd like if we could invite other people who know the language, when we have only one person who knows it." "We need to mob more often." "I feel like we need to have more space." 
+
+*What still has you puzzled? On a team level... For you personally...*
+
+"Scala."
+
 ## 22 June 2015
 
 *What went well? On a team level... For you personally...*
