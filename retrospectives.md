@@ -2,7 +2,7 @@
 
 ## July 14, 2015
 
-Today's mob was Michael Whitehead (facilitating and code owner), Jaswandi, Julia, Amanda, Ben, Jason, Rob, Amela (briefly).
+Today's mob was Michael Whitehead (facilitating and code owner), Jaswandi, Julia, Amanda, Ben, Jason, Rob, Amela (briefly), and Sowjanya (briefly).
 
 *What went well? On a team level... For you personally...*
 
