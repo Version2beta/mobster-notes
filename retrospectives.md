@@ -1,5 +1,25 @@
 # Mob Programming Retrospectives
 
+## July 16, 2015
+
+Today's mob was Jason (code owner), Rob, Julia, Amanda, Kirsten, Michael, Arun, working on Bulk Nomination using AngularJS, Mocha, jsdom, $httpBackend, started on Sinon at the end.
+
+*What went well? On a team level... For you personally...*
+
+"Didn't have any keymapping issue", "I can see how using jsdom and $httpBackend may encounter problems during the testing phase"
+
+*What didn't go well? On a team level... For you personally...*
+
+"Not as productive as previous ones", "Coming in late, kinda put stuff on Jason's plate more, doesn't help the team on the team level. I can see that benefitting in mob programming who knows the problem and language would be more productive", "participation wasn't 100%, i don't know if it was expected in mob programming or not, but i didn't see that much participation in this mob session.", "yeah, maybe some of them got sidetracked, or perhaps this one was too much research and not enough coding", "nothing on this session, but i do feel that it'd be better for the participants to have some pre-research on the stuff", "usually trying to do research while in a mob group, is more time-consuming, and there's a chance that the group research may break apart, and leaving the driver hanging", "it's different for company projects is that not always interesting, the project is simply necessary".
+
+*What would you like to try differently? On a team level... For you personally...*
+
+"pre-research and knowing what people are getting into in the mob session", "maybe it didn't work so well because the participants weren't familiar with the project or framework", "if we treated more like an open source project, like an on-going project, so interest people who are actually familiar and interested in the project to participate", "the differences between now and that is we are forming mob programming because we want to form mob programming, not because people who are really interested in angular", "maybe it'll help when people download source code and work on it at the same time", "maybe we should create a war room for a specific problem with specific timeline" 
+
+*What still has you puzzled? On a team level... For you personally...*
+
+"nothing", "everything is crystal clear about mob programming"
+
 ## July 14, 2015
 
 Today's mob was Michael Whitehead (facilitating and code owner), Jaswandi, Julia, Amanda, Ben, Jason, Rob, Amela (briefly), and Sowjanya (briefly).
