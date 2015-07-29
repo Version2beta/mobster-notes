@@ -1,5 +1,24 @@
 # Mob Programming Retrospectives
 
+## July 29, 2015
+
+Today's mob was Julia (driver), Amanda, Rob, Caleb. Working on Julia's frontend code. 
+
+*What went well? On a team level... For you personally...*
+"there were things that i saw and learned", "i personally think it went better than i would've gone through by myself", "it seemed to go pretty well this time"
+
+
+*What didn't go well? On a team level... For you personally...*
+"i think some explanation at the beginning about the project"
+
+
+*What would you like to try differently? On a team level... For you personally...*
+"like what somebody suggested, maybe we can let one of the less experienced people drive, and there would be a navigator (more experienced) to navigate", "i think we can set some intention at the beginning of the mob, learning, or be more productive, or if one person is no way in the mood for mob then can't be a driver", "i still think rotating drivers can be better. but i don't know how to solve the individual preferences on key-bindings"
+
+
+*What still has you puzzled? On a team level... For you personally...*
+"i don't get how mobbing for more than 4 hours a day can be productive"
+
 ## July 16, 2015
 
 Today's mob was Jason (code owner), Rob, Julia, Amanda, Kirsten, Michael, Arun, working on Bulk Nomination using AngularJS, Mocha, jsdom, $httpBackend, started on Sinon at the end.
