@@ -5,19 +5,23 @@
 Today's mob was Julia (driver), Amanda, Rob, Caleb. Working on Julia's frontend code. 
 
 *What went well? On a team level... For you personally...*
-"there were things that i saw and learned", "i personally think it went better than i would've gone through by myself", "it seemed to go pretty well this time"
+
+"there were things that i saw and learned", "i personally think it went better than what i would've gone through by myself", "it seemed to go pretty well this time"
 
 
 *What didn't go well? On a team level... For you personally...*
-"i think some explanation at the beginning about the project"
+
+"i think some explanation at the beginning about the project", "the mobbing was very low level, but i felt like i needed a lot more high level concept", "need more volume better involvement and engagement of everybody in the mob who wants to be involved"
 
 
 *What would you like to try differently? On a team level... For you personally...*
-"like what somebody suggested, maybe we can let one of the less experienced people drive, and there would be a navigator (more experienced) to navigate", "i think we can set some intention at the beginning of the mob, learning, or be more productive, or if one person is no way in the mood for mob then can't be a driver", "i still think rotating drivers can be better. but i don't know how to solve the individual preferences on key-bindings"
+
+"like what somebody suggested, maybe we can let one of the less experienced people drive, and there would be a navigator (more experienced) to navigate", "i think we can set some intention at the beginning of the mob, learning, or be more productive, or if one person is no way in the mood for mob then can't be a driver", "i still think rotating drivers can be better. but i don't know how to solve the individual preferences on key-bindings", "i think that we should have someone who is learning the code drive, almost all the time", "i propose: 1) to have a facilitator who is responsible to make sure everybody is caught up. 2) to have the driver be responsible to make sure everybody is caught up or productive.", "i think engaged is enough, doesn't have to be productive", "i would propose that the intention of the mob is to get everybody engaged, not the same as what their current knowledge level is" 
 
 
 *What still has you puzzled? On a team level... For you personally...*
-"i don't get how mobbing for more than 4 hours a day can be productive"
+
+"i don't get how mobbing for more than 4 hours a day can be productive", "how do you handle a mob when you have a coding objective, based on libraries and processes that you aren't familiar with? is it okay to blow past the participants are capable of?" "is it okay to differentiate a production mob and a learning mob?", "who is responsible to make sure everybody stays engaged in the mob?"
 
 ## July 16, 2015
 
